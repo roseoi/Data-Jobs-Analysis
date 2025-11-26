@@ -1,5 +1,5 @@
 
-# DataJobsAnalysis
+# Data-Jobs-Analysis
 
 A public end-to-end data analytics project showcasing **Python**, **SQL**, and **Power BI** skills using a job-market dataset. This repository demonstrates data cleaning, exploratory analysis, SQL modeling, and interactive dashboard design—built to highlight practical, portfolio-ready data analytics capabilities.
 
