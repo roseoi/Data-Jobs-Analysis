@@ -18,9 +18,7 @@ A public end-to-end data analytics project showcasing **Python**, **SQL**, and *
 ├─ src/
 │  └─ analysis.py           <-- optional script version of notebook
 ├─ sql/
-│  ├─ schema.sql            <-- table DDL for demo database
-│  ├─ transforms.sql        <-- SQL transformations & CTEs
-│  └─ examples.sql          <-- example queries (joins, window functions)
+│  └─ datajobsanalysis.sql          <-- example queries (create tables,queries)
 ├─ powerbi/
 │  ├─ DataJobsReport.pbix   <-- Power BI Desktop file (optional, large)
 │  └─ screenshots/          <-- exported images of report (PNG/PDF)
