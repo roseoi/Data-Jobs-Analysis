@@ -12,7 +12,7 @@ A public end-to-end data analytics project showcasing **Python**, **SQL**, and *
 ```
 / (root)
 ├─ README.md                <-- (this file)
-├─ data/                    <-- small sample data (CSV) — *DO NOT commit sensitive/raw full datasets*
+├─ data/                    <-- small sample data (CSV) — *downloadable from link in reference*
 ├─ notebooks/
 │  └─ datajobsanalysis.ipynb <-- main analysis notebook (Python)
 ├─ src/
